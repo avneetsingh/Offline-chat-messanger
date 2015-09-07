@@ -1,0 +1,36 @@
+J:\Offline Chat\Offline Chat\bin\Debug\Offline Chat.exe.config
+J:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.exe
+J:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.pdb
+J:\Offline Chat\Offline Chat\bin\Debug\Offline Chat.exe
+J:\Offline Chat\Offline Chat\bin\Debug\Offline Chat.pdb
+J:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.csprojResolveAssemblyReference.cache
+J:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Form1.resources
+J:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Form2.resources
+J:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Home.resources
+J:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Properties.Resources.resources
+J:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Send_message.resources
+J:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.csproj.GenerateResource.Cache
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\bin\Debug\Offline Chat.exe.config
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\bin\Debug\Offline Chat.exe
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\bin\Debug\Offline Chat.pdb
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Form1.resources
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Form2.resources
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Home.resources
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Properties.Resources.resources
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Send_message.resources
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline Chat.csproj.GenerateResource.Cache
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline Chat.exe
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline Chat.pdb
+C:\Users\avneet\Documents\Visual Studio 2013\Projects\Offline Chat\Offline Chat\obj\Debug\Offline Chat.csprojResolveAssemblyReference.cache
+G:\Offline Chat\Offline Chat\bin\Debug\Offline Chat.exe.config
+G:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.exe
+G:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.pdb
+G:\Offline Chat\Offline Chat\bin\Debug\Offline Chat.exe
+G:\Offline Chat\Offline Chat\bin\Debug\Offline Chat.pdb
+G:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.csprojResolveAssemblyReference.cache
+G:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Form1.resources
+G:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Form2.resources
+G:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Home.resources
+G:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Properties.Resources.resources
+G:\Offline Chat\Offline Chat\obj\Debug\Offline_Chat.Send_message.resources
+G:\Offline Chat\Offline Chat\obj\Debug\Offline Chat.csproj.GenerateResource.Cache
